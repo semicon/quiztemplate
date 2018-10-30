@@ -1,0 +1,29 @@
+﻿{
+	"version": 1540864002,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/choice-sheet0.png",
+		"images/choice-sheet1.png",
+		"images/up-sheet0.png",
+		"images/down-sheet0.png",
+		"images/bgans-sheet0.png",
+		"images/bgquestion-sheet0.png",
+		"images/bgmain-sheet0.png",
+		"images/frame-sheet0.png",
+		"images/btn-sheet0.png",
+		"images/bghead-sheet0.png",
+		"images/sendbtn-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/hidden-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"questions.txt"
+	]
+}
